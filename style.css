@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(228, 182, 125);
+}
+
+div.number{
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
+
+div.image{
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
